@@ -6,3 +6,5 @@ https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2
 - Currently Technology Used
 - Future Technology Trend
 - Demograohics
+
+<img width="1066" alt="Screenshot 2024-09-27 at 11 42 34" src="https://github.com/user-attachments/assets/45e586bb-a650-46d7-981e-7fb432b60883">
